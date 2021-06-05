@@ -18,9 +18,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anamul-Hoque-Emtiaj/Hal-Khata/issues"
+    "url": "https://github.com/Naimur-Rahman-Asif/halkhata/issues"
   },
-  "homepage": "https://github.com/Anamul-Hoque-Emtiaj/Hal-Khata#readme",
+  "homepage": "https://github.com/Naimur-Rahman-Asif/halkhata#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
